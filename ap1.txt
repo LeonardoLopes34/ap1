@@ -14,8 +14,9 @@
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas iaculis sagittis dapibus. Curabitur eros eros, 
-vulputate eget ullamcorper a, vehicula non enim. Nullam dictum pellentesque placerat. Mauris arcu sem, rutrum ut nulla eget, aliquam bl
+
 andit erat. Curabitur efficitur risus a mi tincidunt sodales. Vestibulum dignissim nisl a est cursus commodo. Fusce sit amet tellus vitae felis dapib
+<<<<<<< HEAD
 us efficitur. Nullam neque ex, faucibus eu tincidunt non, dignissim nec arcu. Aenean efficitur fermentum ante nec pulvinar. Nullam nisi orci, gravida 
 nec dictum id, viverra vitae ligula. Curabitur auctor porta dolor at aliqua Nunc nec nunc leo. Nulla facilisi. Fusce at magna non massa lacinia sodales. Aliquam non odio eu leo pulv
 nar auctor non a lorem. 
@@ -47,3 +48,6 @@ Quisque ut massa felis. Suspendisse sed urna mauris. Vivamus lobortis, nunc in v
  Suspendisse vel consectetur ipsum. Vivamus lobortis elit tellus. Quisque sodales quam non eros volutpat tristique. Morbi non justo euismod, luctus tortor id,
   blandit orci. Aliquam semper congue dapibus. In nec nibh ut enim convallis rutrum. Aenean quis felis quam. 
 >>>>>>> feature_2
+=======
+m. 
+>>>>>>> feature_1
